@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.env
+my_env/
+
+# IDE / platform
+.theia/
+.gradio/
+.DS_Store
