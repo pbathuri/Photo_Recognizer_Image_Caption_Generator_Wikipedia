@@ -1,10 +1,18 @@
+# macOS
+.DS_Store
+
 # Python
 __pycache__/
 *.pyc
 .env
+venv/
 my_env/
 
-# IDE / platform
-.theia/
+# Gradio / runtime
 .gradio/
-.DS_Store
+
+# Theia / IDE
+.theia/
+.idea/
+.vscode/
+
