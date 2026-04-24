@@ -2,7 +2,7 @@
 
 # Photo Recognizer · Image Caption + Wikipedia
 
-**BLIP-based image captioning with Wikipedia grounding — point it at a URL or a JPG, get a caption plus relevant encyclopedic context.**
+**BLIP-based image captioning with Wikipedia grounding - point it at a URL or a JPG, get a caption plus relevant encyclopedic context.**
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 ## TL;DR
 
-A small computer-vision sandbox exploring **self-supervised image captioning** (BLIP) with a Wikipedia enrichment step — the caption becomes a query, and the top matching article snippet is appended for context.
+A small computer-vision sandbox exploring **self-supervised image captioning** (BLIP) with a Wikipedia enrichment step - the caption becomes a query, and the top matching article snippet is appended for context.
 
 Originally built to explore how well captioning models transfer to real, noisy photos without fine-tuning.
 
@@ -64,5 +64,5 @@ Then open the local Gradio URL and upload an image or paste a URL.
 ---
 
 <div align="center">
-<sub>Part of <a href="https://github.com/pbathuri">@pbathuri</a>'s <a href="https://github.com/pbathuri/Map_Projects_MAC">project portfolio</a> — computer vision sandbox.</sub>
+<sub>Part of <a href="https://github.com/pbathuri">@pbathuri</a>'s <a href="https://github.com/pbathuri/Map_Projects_MAC">project portfolio</a> - computer vision sandbox.</sub>
 </div>
